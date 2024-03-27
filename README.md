@@ -1,6 +1,3 @@
-# Abdullah Shaaban
-
-
 <h1 align="center">Hey 👋, I'm Abdullah Shaaban</h1>
 
 ###
